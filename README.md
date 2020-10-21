@@ -1,4 +1,5 @@
 <img align="right" width="400" height="400" src="C:/Users/fabia/OneDrive/Documentos/Arquivosdocliente/Logotipo/Símbolo/Fotos/2.png">
+![](C:/Users/fabia/OneDrive/Documentos/Arquivosdocliente/Logotipo/Símbolo/Fotos/2.png)
  
 # Welcome!
  
