@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="C:\Users\fabia\OneDrive\Documentos\Arquivos do cliente\Arquivos do cliente\Logotipo\Símbolo\Fotos\2.png">
+<img align="right" width="400" height="400" src="C:/Users/fabia/OneDrive/Documentos/Arquivosdocliente/Logotipo/Símbolo/Fotos/2.png">
  
 # Welcome!
  
@@ -16,4 +16,4 @@ Estudante de graduação em Ciência da Computação na UFS
  
 - Thanks for visiting. 
  
-- Enjoy it!! o/
+- Enjoy it!! 
