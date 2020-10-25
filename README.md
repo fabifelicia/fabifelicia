@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src=".github/2.png">
+<img align="right" width="100" height="100" src=".github/2.png">
  
 # Welcome!
  
