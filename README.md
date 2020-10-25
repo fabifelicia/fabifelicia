@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src=".github/logo.png">
+<img align="right" width="400" height="400" src="https://user-images.githubusercontent.com/39680930/97121174-0ca9f780-16fb-11eb-84c2-7ff83ed533b4.png">
  
 # Welcome!
  
