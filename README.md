@@ -14,7 +14,7 @@ Estudante de graduação em Ciência da Computação na UFS
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabianabarretomenezes@gmail.com)](mailto:fabianabarretomenezes@gmail.com)
  
 ![Fabiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabifelicia&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabifelicia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabifelicia&layout=compact&theme=radical)](https://github.com/fabifelicia/github-readme-stats)
 
 
  
