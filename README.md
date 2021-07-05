@@ -18,6 +18,6 @@ Estudante de graduação em Ciência da Computação na UFS
 
 
  
-- Thanks for visiting. 
+- Thanks for visiting.  
  
 - Enjoy it!! 
