@@ -15,6 +15,7 @@ Software developer with knowledge of JS, Node.js, CSS and HTML technologies.
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabianabarretomenezes@gmail.com)](mailto:fabianabarretomenezes@gmail.com)
  
 ![Fabiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabifelicia&show_icons=true&theme=default)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabifelicia&layout=compact&theme=default)](https://github.com/fabifelicia/github-readme-stats)
 
 
