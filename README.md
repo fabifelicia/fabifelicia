@@ -14,8 +14,6 @@ Software developer with knowledge of JS, Node.js, CSS and HTML technologies.
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5579999967394&text=Hello!)](https://api.whatsapp.com/send?phone=5579999967394&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabianabarretomenezes@gmail.com)](mailto:fabianabarretomenezes@gmail.com)
  
-![Fabiana's GitHub stats](https://github-readme-stats.vercel.app/api?username=fabifelicia&show_icons=true&theme=default)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabifelicia&layout=compact&theme=default)](https://github.com/fabifelicia/github-readme-stats)
 
 
