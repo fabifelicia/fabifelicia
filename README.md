@@ -7,6 +7,7 @@
 ## About me 
  
 Graduated in Computer Science
+
 BackEnd developer with experience building chatbots and APIs in Node.js and .NET, as well as working on software development projects. I have skills in databases, version control (Git), and agile methodologies..
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fabifelicia)](https://github.com/fabifelicia)
