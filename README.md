@@ -20,10 +20,9 @@ Sou desenvolvedora **Back-End Júnior** com experiência prática em projetos qu
 
 ## 💡 Interesses
 
-- Back-end com propósito social
-- Integrações inteligentes
-- HealthTechs e produtos digitais acessíveis
-- Projetos com impacto real
+- Projetos backend com impacto real
+- Computacao em Nuvem
+- Observabilidade
 
 ## 📫 Onde me encontrar
 
