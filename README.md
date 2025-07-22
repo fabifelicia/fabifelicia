@@ -2,6 +2,10 @@
 
 Sou desenvolvedora **Back-End Júnior** com experiência prática em projetos que envolvem **automação de fluxos com chatbots**, construção de **APIs RESTful** e **integrações com sistemas externos**. Tenho trabalhado principalmente com **JavaScript** e **Node.js**, como novo foco na linguagem Java e sou apaixonada por construir soluções que realmente ajudam pessoas no dia a dia.
 
+## 📄 Currículo
+
+Acesse meu [currículo atualizado](https://fabifelicia.github.io)  
+
 ## 🚀 Um pouco da minha trajetória
 
 - 💬 Atuei por mais de 2 anos como **Desenvolvedora de Chatbots**, criando fluxos conversacionais integrados com APIs em plataformas como o **Blip**.
@@ -29,7 +33,6 @@ Sou desenvolvedora **Back-End Júnior** com experiência prática em projetos qu
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/fabifelicia)](https://github.com/fabifelicia)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/fabiana-barreto2)](www.linkedin.com/in/fabiana-barreto2)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fabianabarretomenezes@gmail.com)](mailto:fabianabarretomenezes@gmail.com)
-[![Currículo](https://img.shields.io/badge/Currículo-Visualizar-blue)](https://fabifelicia.github.io)
 
 
 ## 📊 Estatísticas do GitHub
