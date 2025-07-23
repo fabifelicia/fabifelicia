@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou a Fabiana Barreto
 
-Sou desenvolvedora **Back-End Júnior** com experiência prática em projetos que envolvem **automação de fluxos com chatbots**, construção de **APIs RESTful** e **integrações com sistemas externos**. Tenho trabalhado principalmente com **JavaScript** e **Node.js**, como novo foco na linguagem Java e sou apaixonada por construir soluções que realmente ajudam pessoas no dia a dia.
+Sou desenvolvedora **Back-End** com experiência prática em projetos que envolvem **automação de fluxos com chatbots**, construção de **APIs RESTful** e **integrações com sistemas externos**. Tenho trabalhado principalmente com **JavaScript** e **Node.js**, como novo foco na linguagem Java e sou apaixonada por construir soluções que realmente ajudam pessoas no dia a dia.
 
 ## 📄 Currículo
 
